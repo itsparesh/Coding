@@ -17,6 +17,7 @@
 |  |
 | ------- |
 | [1250-longest-common-subsequence](https://github.com/itsparesh/Coding/tree/master/1250-longest-common-subsequence) |
+| [2033-the-number-of-full-rounds-you-have-played](https://github.com/itsparesh/Coding/tree/master/2033-the-number-of-full-rounds-you-have-played) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -49,4 +50,8 @@
 |  |
 | ------- |
 | [0146-lru-cache](https://github.com/itsparesh/Coding/tree/master/0146-lru-cache) |
+## Math
+|  |
+| ------- |
+| [2033-the-number-of-full-rounds-you-have-played](https://github.com/itsparesh/Coding/tree/master/2033-the-number-of-full-rounds-you-have-played) |
 <!---LeetCode Topics End-->
