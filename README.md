@@ -33,4 +33,20 @@
 |  |
 | ------- |
 | [0323-number-of-connected-components-in-an-undirected-graph](https://github.com/itsparesh/Coding/tree/master/0323-number-of-connected-components-in-an-undirected-graph) |
+## Hash Table
+|  |
+| ------- |
+| [0146-lru-cache](https://github.com/itsparesh/Coding/tree/master/0146-lru-cache) |
+## Linked List
+|  |
+| ------- |
+| [0146-lru-cache](https://github.com/itsparesh/Coding/tree/master/0146-lru-cache) |
+## Design
+|  |
+| ------- |
+| [0146-lru-cache](https://github.com/itsparesh/Coding/tree/master/0146-lru-cache) |
+## Doubly-Linked List
+|  |
+| ------- |
+| [0146-lru-cache](https://github.com/itsparesh/Coding/tree/master/0146-lru-cache) |
 <!---LeetCode Topics End-->
