@@ -1,11 +1,9 @@
 class Solution {
     public int numberOfRounds(String loginTime, String logoutTime) {
-        String[] logInTime = loginTime.split(":");
-        String[] logOutTime = logoutTime.split(":");
-        int inHour = Integer.parseInt(logInTime[0]);
-        int inMin = Integer.parseInt(logInTime[1]);
-        int outHour = Integer.parseInt(logOutTime[0]);
-        int outMin = Integer.parseInt(logOutTime[1]);
+        int inHour = Integer.parseInt(loginTime.substring(0,2));
+        int inMin = Integer.parseInt(loginTime.substring(3));
+        int outHour = Integer.parseInt(logoutTime.substring(0,2));
+        int outMin = Integer.parseInt(logoutTime.substring(3));
 
         if (outHour > inHour || (outHour == inHour && outMin >= inMin)) {
             outMin = outHour * 60 + outMin;
