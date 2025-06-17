@@ -17,4 +17,20 @@
 |  |
 | ------- |
 | [1250-longest-common-subsequence](https://github.com/itsparesh/Coding/tree/master/1250-longest-common-subsequence) |
+## Depth-First Search
+|  |
+| ------- |
+| [0323-number-of-connected-components-in-an-undirected-graph](https://github.com/itsparesh/Coding/tree/master/0323-number-of-connected-components-in-an-undirected-graph) |
+## Breadth-First Search
+|  |
+| ------- |
+| [0323-number-of-connected-components-in-an-undirected-graph](https://github.com/itsparesh/Coding/tree/master/0323-number-of-connected-components-in-an-undirected-graph) |
+## Union Find
+|  |
+| ------- |
+| [0323-number-of-connected-components-in-an-undirected-graph](https://github.com/itsparesh/Coding/tree/master/0323-number-of-connected-components-in-an-undirected-graph) |
+## Graph
+|  |
+| ------- |
+| [0323-number-of-connected-components-in-an-undirected-graph](https://github.com/itsparesh/Coding/tree/master/0323-number-of-connected-components-in-an-undirected-graph) |
 <!---LeetCode Topics End-->
