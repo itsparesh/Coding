@@ -9,6 +9,7 @@
 | [0064-minimum-path-sum](https://github.com/itsparesh/Coding/tree/master/0064-minimum-path-sum) |
 | [0198-house-robber](https://github.com/itsparesh/Coding/tree/master/0198-house-robber) |
 | [1896-maximum-score-from-performing-multiplication-operations](https://github.com/itsparesh/Coding/tree/master/1896-maximum-score-from-performing-multiplication-operations) |
+| [3164-last-visited-integers](https://github.com/itsparesh/Coding/tree/master/3164-last-visited-integers) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -62,4 +63,8 @@
 |  |
 | ------- |
 | [0064-minimum-path-sum](https://github.com/itsparesh/Coding/tree/master/0064-minimum-path-sum) |
+## Simulation
+|  |
+| ------- |
+| [3164-last-visited-integers](https://github.com/itsparesh/Coding/tree/master/3164-last-visited-integers) |
 <!---LeetCode Topics End-->
