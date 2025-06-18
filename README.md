@@ -5,11 +5,13 @@
 ## Array
 |  |
 | ------- |
+| [0064-minimum-path-sum](https://github.com/itsparesh/Coding/tree/master/0064-minimum-path-sum) |
 | [0198-house-robber](https://github.com/itsparesh/Coding/tree/master/0198-house-robber) |
 | [1896-maximum-score-from-performing-multiplication-operations](https://github.com/itsparesh/Coding/tree/master/1896-maximum-score-from-performing-multiplication-operations) |
 ## Dynamic Programming
 |  |
 | ------- |
+| [0064-minimum-path-sum](https://github.com/itsparesh/Coding/tree/master/0064-minimum-path-sum) |
 | [0198-house-robber](https://github.com/itsparesh/Coding/tree/master/0198-house-robber) |
 | [1250-longest-common-subsequence](https://github.com/itsparesh/Coding/tree/master/1250-longest-common-subsequence) |
 | [1896-maximum-score-from-performing-multiplication-operations](https://github.com/itsparesh/Coding/tree/master/1896-maximum-score-from-performing-multiplication-operations) |
@@ -54,4 +56,8 @@
 |  |
 | ------- |
 | [2033-the-number-of-full-rounds-you-have-played](https://github.com/itsparesh/Coding/tree/master/2033-the-number-of-full-rounds-you-have-played) |
+## Matrix
+|  |
+| ------- |
+| [0064-minimum-path-sum](https://github.com/itsparesh/Coding/tree/master/0064-minimum-path-sum) |
 <!---LeetCode Topics End-->
