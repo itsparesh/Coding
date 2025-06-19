@@ -5,7 +5,7 @@ class Solution {
             widthArr[i] = points[i][0];
         }
         Arrays.sort(widthArr);
-        int max = Integer.MIN_VALUE;
+        int max = 0;
         for (int i = 1; i < widthArr.length; i++) {
             max = Math.max(max, widthArr[i] - widthArr[i-1]);
         }
