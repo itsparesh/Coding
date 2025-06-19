@@ -1,8 +1,8 @@
 class Solution {
-    int[] parent;
     int[] rank;
+    int[] parent;
     public int countComponents(int n, int[][] edges) {
-        int l = edges.length;
+        int res = n;
         parent = new int[n];
         rank = new int[n];
         for (int i = 0; i < n; i++) {
@@ -10,37 +10,36 @@ class Solution {
             rank[i] = 1;
         }
 
-        int res = n;
-
-        for (int i = 0; i < l; i++) {
-            int node1 = edges[i][0];
-            int node2 = edges[i][1];
-            res -= union(node1, node2);
+        for (int i = 0; i < edges.length; i++) {
+            int a = edges[i][0];
+            int b = edges[i][1];
+            
+            res -= unionOfNodes(a, b);
         }
         return res;
     }
 
     private int findParent(int node) {
         int res = node;
-        while (res != parent[res]) {
-            // res = parent[parent[res]];
+        if (res != parent[res]) {
+            res = parent[parent[res]];
             res = parent[res];
         }
         return res;
     }
 
-    private int union(int node1, int node2) {
-        int parent1 = findParent(node1);
-        int parent2 = findParent(node2);
+    private int unionOfNodes(int a, int b) {
+        int parentA = findParent(a);
+        int parentB = findParent(b);
 
-        if (parent1 == parent2) return 0;
+        if (parentA == parentB) return 0;
 
-        if (rank[parent1] > rank[parent2]) {
-            parent[parent2] = parent1;
-            rank[parent1] += rank[parent2];
+        if (rank[parentA] > rank[parentB]) {
+            rank[parentA] += rank[parentB];
+            parent[parentB] = parentA;
         } else {
-            parent[parent1] = parent2;
-            rank[parent2] += rank[parent1];
+            rank[parentB] += rank[parentA];
+            parent[parentA] = parentB;
         }
         return 1;
     }
