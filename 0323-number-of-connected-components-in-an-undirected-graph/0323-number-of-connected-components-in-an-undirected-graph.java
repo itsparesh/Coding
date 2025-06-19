@@ -21,8 +21,8 @@ class Solution {
 
     private int findParent(int node) {
         int res = node;
-        if (res != parent[res]) {
-            res = parent[parent[res]];
+        while (res != parent[res]) {
+            // res = parent[parent[res]];
             res = parent[res];
         }
         return res;
