@@ -20,12 +20,10 @@ class Solution {
     }
 
     private int findParent(int node) {
-        int res = node;
-        while (res != parent[res]) {
-            // res = parent[parent[res]];
-            res = parent[res];
+        while (node != parent[node]) {
+            node = parent[node];
         }
-        return res;
+        return node;
     }
 
     private int unionOfNodes(int a, int b) {
