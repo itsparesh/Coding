@@ -8,6 +8,7 @@
 | [0041-first-missing-positive](https://github.com/itsparesh/Coding/tree/master/0041-first-missing-positive) |
 | [0064-minimum-path-sum](https://github.com/itsparesh/Coding/tree/master/0064-minimum-path-sum) |
 | [0198-house-robber](https://github.com/itsparesh/Coding/tree/master/0198-house-robber) |
+| [0221-maximal-square](https://github.com/itsparesh/Coding/tree/master/0221-maximal-square) |
 | [1713-dot-product-of-two-sparse-vectors](https://github.com/itsparesh/Coding/tree/master/1713-dot-product-of-two-sparse-vectors) |
 | [1742-widest-vertical-area-between-two-points-containing-no-points](https://github.com/itsparesh/Coding/tree/master/1742-widest-vertical-area-between-two-points-containing-no-points) |
 | [1896-maximum-score-from-performing-multiplication-operations](https://github.com/itsparesh/Coding/tree/master/1896-maximum-score-from-performing-multiplication-operations) |
@@ -17,6 +18,7 @@
 | ------- |
 | [0064-minimum-path-sum](https://github.com/itsparesh/Coding/tree/master/0064-minimum-path-sum) |
 | [0198-house-robber](https://github.com/itsparesh/Coding/tree/master/0198-house-robber) |
+| [0221-maximal-square](https://github.com/itsparesh/Coding/tree/master/0221-maximal-square) |
 | [1250-longest-common-subsequence](https://github.com/itsparesh/Coding/tree/master/1250-longest-common-subsequence) |
 | [1896-maximum-score-from-performing-multiplication-operations](https://github.com/itsparesh/Coding/tree/master/1896-maximum-score-from-performing-multiplication-operations) |
 ## String
@@ -68,6 +70,7 @@
 |  |
 | ------- |
 | [0064-minimum-path-sum](https://github.com/itsparesh/Coding/tree/master/0064-minimum-path-sum) |
+| [0221-maximal-square](https://github.com/itsparesh/Coding/tree/master/0221-maximal-square) |
 ## Simulation
 |  |
 | ------- |
