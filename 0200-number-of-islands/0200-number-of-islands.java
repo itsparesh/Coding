@@ -19,9 +19,7 @@ class Solution {
 
     private void countIsIsland(char[][] grid, int row, int col) {
         if (row < 0 || row >= m || col < 0 || col >= n || grid[row][col] != '1') return;
-        if (grid[row][col] == '1') {
-            grid[row][col] = '2';
-        } 
+        grid[row][col] = '2';
 
         countIsIsland(grid, row + 1, col);
         countIsIsland(grid, row - 1, col);
