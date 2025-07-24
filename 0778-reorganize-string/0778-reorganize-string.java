@@ -1,20 +1,9 @@
 class Solution {
     public String reorganizeString(String s) {
         HashMap<Character, Integer> charMap = new HashMap<>();
-        int len = s.length();
         for (int i = 0; i < s.length(); i++) {
             char ch = s.charAt(i);
-            charMap.put(ch, charMap.getOrDefault(ch, 0) + 1);
-            if (len % 2 == 0) {
-                if (charMap.get(ch) > len / 2) {
-                    return "";
-                }
-            } else {
-                if (charMap.get(ch) > (len + 1)/2) {
-                    return "";
-                }
-            }
-            
+            charMap.put(ch, charMap.getOrDefault(ch, 0) + 1);            
         }
 
         PriorityQueue<Character> maxHeap = new PriorityQueue<>((a, b) -> charMap.get(b) - charMap.get(a));
@@ -22,7 +11,7 @@ class Solution {
 
         StringBuilder res = new StringBuilder();
 
-        while (maxHeap.size() >= 2) { 
+        while (maxHeap.size() > 1) { 
             char ch1 = maxHeap.poll();
             char ch2 = maxHeap.poll();
 
