@@ -26,6 +26,7 @@
 |  |
 | ------- |
 | [0127-word-ladder](https://github.com/itsparesh/Coding/tree/master/0127-word-ladder) |
+| [0778-reorganize-string](https://github.com/itsparesh/Coding/tree/master/0778-reorganize-string) |
 | [1250-longest-common-subsequence](https://github.com/itsparesh/Coding/tree/master/1250-longest-common-subsequence) |
 | [2033-the-number-of-full-rounds-you-have-played](https://github.com/itsparesh/Coding/tree/master/2033-the-number-of-full-rounds-you-have-played) |
 ## Depth-First Search
@@ -55,6 +56,7 @@
 | [0041-first-missing-positive](https://github.com/itsparesh/Coding/tree/master/0041-first-missing-positive) |
 | [0127-word-ladder](https://github.com/itsparesh/Coding/tree/master/0127-word-ladder) |
 | [0146-lru-cache](https://github.com/itsparesh/Coding/tree/master/0146-lru-cache) |
+| [0778-reorganize-string](https://github.com/itsparesh/Coding/tree/master/0778-reorganize-string) |
 | [1713-dot-product-of-two-sparse-vectors](https://github.com/itsparesh/Coding/tree/master/1713-dot-product-of-two-sparse-vectors) |
 ## Linked List
 |  |
@@ -90,6 +92,7 @@
 ## Sorting
 |  |
 | ------- |
+| [0778-reorganize-string](https://github.com/itsparesh/Coding/tree/master/0778-reorganize-string) |
 | [1742-widest-vertical-area-between-two-points-containing-no-points](https://github.com/itsparesh/Coding/tree/master/1742-widest-vertical-area-between-two-points-containing-no-points) |
 ## Tree
 |  |
@@ -99,4 +102,16 @@
 |  |
 | ------- |
 | [0102-binary-tree-level-order-traversal](https://github.com/itsparesh/Coding/tree/master/0102-binary-tree-level-order-traversal) |
+## Greedy
+|  |
+| ------- |
+| [0778-reorganize-string](https://github.com/itsparesh/Coding/tree/master/0778-reorganize-string) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [0778-reorganize-string](https://github.com/itsparesh/Coding/tree/master/0778-reorganize-string) |
+## Counting
+|  |
+| ------- |
+| [0778-reorganize-string](https://github.com/itsparesh/Coding/tree/master/0778-reorganize-string) |
 <!---LeetCode Topics End-->
