@@ -10,6 +10,7 @@
 | [0198-house-robber](https://github.com/itsparesh/Coding/tree/master/0198-house-robber) |
 | [0200-number-of-islands](https://github.com/itsparesh/Coding/tree/master/0200-number-of-islands) |
 | [0221-maximal-square](https://github.com/itsparesh/Coding/tree/master/0221-maximal-square) |
+| [0347-top-k-frequent-elements](https://github.com/itsparesh/Coding/tree/master/0347-top-k-frequent-elements) |
 | [1713-dot-product-of-two-sparse-vectors](https://github.com/itsparesh/Coding/tree/master/1713-dot-product-of-two-sparse-vectors) |
 | [1742-widest-vertical-area-between-two-points-containing-no-points](https://github.com/itsparesh/Coding/tree/master/1742-widest-vertical-area-between-two-points-containing-no-points) |
 | [1896-maximum-score-from-performing-multiplication-operations](https://github.com/itsparesh/Coding/tree/master/1896-maximum-score-from-performing-multiplication-operations) |
@@ -56,6 +57,7 @@
 | [0041-first-missing-positive](https://github.com/itsparesh/Coding/tree/master/0041-first-missing-positive) |
 | [0127-word-ladder](https://github.com/itsparesh/Coding/tree/master/0127-word-ladder) |
 | [0146-lru-cache](https://github.com/itsparesh/Coding/tree/master/0146-lru-cache) |
+| [0347-top-k-frequent-elements](https://github.com/itsparesh/Coding/tree/master/0347-top-k-frequent-elements) |
 | [0778-reorganize-string](https://github.com/itsparesh/Coding/tree/master/0778-reorganize-string) |
 | [1713-dot-product-of-two-sparse-vectors](https://github.com/itsparesh/Coding/tree/master/1713-dot-product-of-two-sparse-vectors) |
 ## Linked List
@@ -92,6 +94,7 @@
 ## Sorting
 |  |
 | ------- |
+| [0347-top-k-frequent-elements](https://github.com/itsparesh/Coding/tree/master/0347-top-k-frequent-elements) |
 | [0778-reorganize-string](https://github.com/itsparesh/Coding/tree/master/0778-reorganize-string) |
 | [1742-widest-vertical-area-between-two-points-containing-no-points](https://github.com/itsparesh/Coding/tree/master/1742-widest-vertical-area-between-two-points-containing-no-points) |
 ## Tree
@@ -109,9 +112,23 @@
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0347-top-k-frequent-elements](https://github.com/itsparesh/Coding/tree/master/0347-top-k-frequent-elements) |
 | [0778-reorganize-string](https://github.com/itsparesh/Coding/tree/master/0778-reorganize-string) |
 ## Counting
 |  |
 | ------- |
+| [0347-top-k-frequent-elements](https://github.com/itsparesh/Coding/tree/master/0347-top-k-frequent-elements) |
 | [0778-reorganize-string](https://github.com/itsparesh/Coding/tree/master/0778-reorganize-string) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/itsparesh/Coding/tree/master/0347-top-k-frequent-elements) |
+## Bucket Sort
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/itsparesh/Coding/tree/master/0347-top-k-frequent-elements) |
+## Quickselect
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/itsparesh/Coding/tree/master/0347-top-k-frequent-elements) |
 <!---LeetCode Topics End-->
