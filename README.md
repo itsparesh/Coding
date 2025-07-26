@@ -6,6 +6,7 @@
 |  |
 | ------- |
 | [0041-first-missing-positive](https://github.com/itsparesh/Coding/tree/master/0041-first-missing-positive) |
+| [0042-trapping-rain-water](https://github.com/itsparesh/Coding/tree/master/0042-trapping-rain-water) |
 | [0064-minimum-path-sum](https://github.com/itsparesh/Coding/tree/master/0064-minimum-path-sum) |
 | [0198-house-robber](https://github.com/itsparesh/Coding/tree/master/0198-house-robber) |
 | [0200-number-of-islands](https://github.com/itsparesh/Coding/tree/master/0200-number-of-islands) |
@@ -18,6 +19,7 @@
 ## Dynamic Programming
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/itsparesh/Coding/tree/master/0042-trapping-rain-water) |
 | [0064-minimum-path-sum](https://github.com/itsparesh/Coding/tree/master/0064-minimum-path-sum) |
 | [0198-house-robber](https://github.com/itsparesh/Coding/tree/master/0198-house-robber) |
 | [0221-maximal-square](https://github.com/itsparesh/Coding/tree/master/0221-maximal-square) |
@@ -90,6 +92,7 @@
 ## Two Pointers
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/itsparesh/Coding/tree/master/0042-trapping-rain-water) |
 | [1713-dot-product-of-two-sparse-vectors](https://github.com/itsparesh/Coding/tree/master/1713-dot-product-of-two-sparse-vectors) |
 ## Sorting
 |  |
@@ -131,4 +134,12 @@
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/itsparesh/Coding/tree/master/0347-top-k-frequent-elements) |
+## Stack
+|  |
+| ------- |
+| [0042-trapping-rain-water](https://github.com/itsparesh/Coding/tree/master/0042-trapping-rain-water) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0042-trapping-rain-water](https://github.com/itsparesh/Coding/tree/master/0042-trapping-rain-water) |
 <!---LeetCode Topics End-->
