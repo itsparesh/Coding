@@ -7,6 +7,7 @@
 | ------- |
 | [0041-first-missing-positive](https://github.com/itsparesh/Coding/tree/master/0041-first-missing-positive) |
 | [0042-trapping-rain-water](https://github.com/itsparesh/Coding/tree/master/0042-trapping-rain-water) |
+| [0049-group-anagrams](https://github.com/itsparesh/Coding/tree/master/0049-group-anagrams) |
 | [0064-minimum-path-sum](https://github.com/itsparesh/Coding/tree/master/0064-minimum-path-sum) |
 | [0198-house-robber](https://github.com/itsparesh/Coding/tree/master/0198-house-robber) |
 | [0200-number-of-islands](https://github.com/itsparesh/Coding/tree/master/0200-number-of-islands) |
@@ -28,6 +29,7 @@
 ## String
 |  |
 | ------- |
+| [0049-group-anagrams](https://github.com/itsparesh/Coding/tree/master/0049-group-anagrams) |
 | [0127-word-ladder](https://github.com/itsparesh/Coding/tree/master/0127-word-ladder) |
 | [0778-reorganize-string](https://github.com/itsparesh/Coding/tree/master/0778-reorganize-string) |
 | [1250-longest-common-subsequence](https://github.com/itsparesh/Coding/tree/master/1250-longest-common-subsequence) |
@@ -57,6 +59,7 @@
 |  |
 | ------- |
 | [0041-first-missing-positive](https://github.com/itsparesh/Coding/tree/master/0041-first-missing-positive) |
+| [0049-group-anagrams](https://github.com/itsparesh/Coding/tree/master/0049-group-anagrams) |
 | [0127-word-ladder](https://github.com/itsparesh/Coding/tree/master/0127-word-ladder) |
 | [0146-lru-cache](https://github.com/itsparesh/Coding/tree/master/0146-lru-cache) |
 | [0347-top-k-frequent-elements](https://github.com/itsparesh/Coding/tree/master/0347-top-k-frequent-elements) |
@@ -97,6 +100,7 @@
 ## Sorting
 |  |
 | ------- |
+| [0049-group-anagrams](https://github.com/itsparesh/Coding/tree/master/0049-group-anagrams) |
 | [0347-top-k-frequent-elements](https://github.com/itsparesh/Coding/tree/master/0347-top-k-frequent-elements) |
 | [0778-reorganize-string](https://github.com/itsparesh/Coding/tree/master/0778-reorganize-string) |
 | [1742-widest-vertical-area-between-two-points-containing-no-points](https://github.com/itsparesh/Coding/tree/master/1742-widest-vertical-area-between-two-points-containing-no-points) |
