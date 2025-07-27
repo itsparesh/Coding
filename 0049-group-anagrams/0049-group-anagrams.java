@@ -8,10 +8,6 @@ class Solution {
             map.computeIfAbsent(key, k -> new ArrayList<>()).add(s);
         }
 
-        List<List<String>> res = new ArrayList<>();
-        for (Map.Entry<String, List<String>> entry: map.entrySet()) {
-            res.add(entry.getValue());
-        }
-        return res;
+        return new ArrayList<>(map.values());
     }
 }
