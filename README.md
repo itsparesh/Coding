@@ -13,6 +13,7 @@
 | [0200-number-of-islands](https://github.com/itsparesh/Coding/tree/master/0200-number-of-islands) |
 | [0221-maximal-square](https://github.com/itsparesh/Coding/tree/master/0221-maximal-square) |
 | [0347-top-k-frequent-elements](https://github.com/itsparesh/Coding/tree/master/0347-top-k-frequent-elements) |
+| [1036-rotting-oranges](https://github.com/itsparesh/Coding/tree/master/1036-rotting-oranges) |
 | [1713-dot-product-of-two-sparse-vectors](https://github.com/itsparesh/Coding/tree/master/1713-dot-product-of-two-sparse-vectors) |
 | [1742-widest-vertical-area-between-two-points-containing-no-points](https://github.com/itsparesh/Coding/tree/master/1742-widest-vertical-area-between-two-points-containing-no-points) |
 | [1896-maximum-score-from-performing-multiplication-operations](https://github.com/itsparesh/Coding/tree/master/1896-maximum-score-from-performing-multiplication-operations) |
@@ -46,6 +47,7 @@
 | [0127-word-ladder](https://github.com/itsparesh/Coding/tree/master/0127-word-ladder) |
 | [0200-number-of-islands](https://github.com/itsparesh/Coding/tree/master/0200-number-of-islands) |
 | [0323-number-of-connected-components-in-an-undirected-graph](https://github.com/itsparesh/Coding/tree/master/0323-number-of-connected-components-in-an-undirected-graph) |
+| [1036-rotting-oranges](https://github.com/itsparesh/Coding/tree/master/1036-rotting-oranges) |
 ## Union Find
 |  |
 | ------- |
@@ -88,6 +90,7 @@
 | [0064-minimum-path-sum](https://github.com/itsparesh/Coding/tree/master/0064-minimum-path-sum) |
 | [0200-number-of-islands](https://github.com/itsparesh/Coding/tree/master/0200-number-of-islands) |
 | [0221-maximal-square](https://github.com/itsparesh/Coding/tree/master/0221-maximal-square) |
+| [1036-rotting-oranges](https://github.com/itsparesh/Coding/tree/master/1036-rotting-oranges) |
 ## Simulation
 |  |
 | ------- |
