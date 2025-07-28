@@ -1,5 +1,5 @@
 class Solution {
-    
+
     int fresh = 0;
     int ROW, COL;
 
@@ -19,10 +19,6 @@ class Solution {
         }
         if (fresh == 0) return 0;
         
-        return bfs(grid, queue);
-    } 
-
-    private int bfs(int[][] grid, Queue<int[]> queue) {
         int minutes = 0;
         int[][] DIRECTIONS = new int[][] {{-1, 0}, {1, 0}, {0, 1}, {0, -1}};
         
