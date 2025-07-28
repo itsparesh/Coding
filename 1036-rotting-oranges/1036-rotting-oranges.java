@@ -25,7 +25,7 @@ class Solution {
     private int bfs(int[][] grid, Queue<Pair<Integer, Integer>> queue) {
         int minutes = 0;
         
-        while (!queue.isEmpty()) {
+        while (!queue.isEmpty() && fresh > 0) {
             int size = queue.size();
             boolean rotten = false;
             for (int j = 0; j < size; j++) {
@@ -42,7 +42,7 @@ class Solution {
                 }
             }
 
-            if (rotten) minutes++;
+            minutes++;
         }
         return fresh == 0 ? minutes : -1;
     }
