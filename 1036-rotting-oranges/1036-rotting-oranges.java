@@ -1,7 +1,7 @@
 class Solution {
+    
     int fresh = 0;
     int ROW, COL;
-    int[][] DIRECTIONS = new int[][] {{-1, 0}, {1, 0}, {0, 1}, {0, -1}};
 
     public int orangesRotting(int[][] grid) {
         ROW = grid.length;
@@ -24,6 +24,7 @@ class Solution {
 
     private int bfs(int[][] grid, Queue<int[]> queue) {
         int minutes = 0;
+        int[][] DIRECTIONS = new int[][] {{-1, 0}, {1, 0}, {0, 1}, {0, -1}};
         
         while (!queue.isEmpty() && fresh > 0) {
             int size = queue.size();
