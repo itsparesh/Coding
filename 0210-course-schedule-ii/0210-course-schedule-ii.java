@@ -10,26 +10,25 @@ class Solution {
         output = new int[numCourses];
         index = numCourses - 1;
         for(int[] arr: prerequisites) {
-            adjacencyMap.computeIfAbsent(arr[0], k -> new ArrayList<>()).add(arr[1]);
+            adjacencyMap.computeIfAbsent(arr[1], k -> new ArrayList<>()).add(arr[0]);
         }
 
         for (int i = 0; i < numCourses; i++) {
-            if (!dfs(numCourses, i)) return new int[0];
+            if (!dfs(i)) return new int[0];
         }
         return output;
     }
 
-    private boolean dfs(int numCourses, int node) {
+    private boolean dfs(int node) {
         if (cycle.contains(node)) return false;
         if (visited.contains(node)) return true;
         cycle.add(node);
         for(int num: adjacencyMap.getOrDefault(node, new ArrayList<>())) {
-            if (!dfs(numCourses, num)) return false;
+            if (!dfs(num)) return false;
         }
         cycle.remove(node);
         visited.add(node);
-        output[(numCourses - 1) - index] = node;
-        index--;
+        output[index--] = node;
         return true;
     }
 }
