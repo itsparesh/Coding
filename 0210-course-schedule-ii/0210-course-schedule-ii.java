@@ -3,8 +3,8 @@ class Solution {
     HashMap<Integer, List<Integer>> adjacencyMap = new HashMap<>();
     Set<Integer> visited = new HashSet<>();
     Set<Integer> cycle = new HashSet<>();
-    int[] output;       // array to store the result
-    int index;          // current index to insert into output (starting from end)
+    int[] output;       
+    int index;          
 
     public int[] findOrder(int numCourses, int[][] prerequisites) {  
         output = new int[numCourses];
