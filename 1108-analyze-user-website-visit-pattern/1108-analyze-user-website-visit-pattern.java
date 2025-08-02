@@ -43,7 +43,18 @@ class Solution {
                 max = value;
                 res = key;
             } else if (value == max) {
-                if (key.toString().compareTo(res.toString()) < 0) {
+                // Compare lists lexicographically
+                boolean isSmaller = false;
+                for (int idx = 0; idx < 3; idx++) {
+                    int cmp = key.get(idx).compareTo(res.get(idx));
+                    if (cmp < 0) {
+                        isSmaller = true;
+                        break;
+                    } else if (cmp > 0) {
+                        break;
+                    }
+                }
+                if (isSmaller) {
                     res = key;
                 }
             }
