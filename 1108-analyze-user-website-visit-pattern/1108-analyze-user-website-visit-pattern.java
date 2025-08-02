@@ -58,13 +58,7 @@ class Solution {
         for (int i = 0; i < size; i++) {
             for (int j = i+1; j < size; j++) {
                 for (int k = j+1; k < size; k++) {
-                    StringBuilder str = new StringBuilder();
-                    str.append(list.get(i));
-                    str.append(" ");
-                    str.append(list.get(j));
-                    str.append(" ");
-                    str.append(list.get(k));
-                    set.add(Arrays.asList(str.toString().split(" ")));
+                    set.add(Arrays.asList(list.get(i), list.get(j), list.get(k)));
                 }
             }
         }
