@@ -10,12 +10,11 @@ class Solution {
             if (set.contains(ch)) {
                 maxLen = Math.max(maxLen, set.size());
                 Iterator<Character> iterator = set.iterator();
-
                 while (iterator.hasNext()) {
                     char first = iterator.next();
                     iterator.remove();
                     if (first == ch) break;
-                }      
+                }
             }
             set.add(ch);
         }
