@@ -3,10 +3,9 @@ class Solution {
     int maxLength =  0;
 
     public int longestConsecutive(int[] nums) {
-        for (int num: nums) {
+        for (int num: nums) 
             numSet.add(num);
-        }
-
+            
         for (int num: numSet) {
             if (!numSet.contains(num-1)) {
                 int current = num;
