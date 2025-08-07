@@ -1,5 +1,5 @@
 class Solution {
-    Set<Integer> numSet = new HashSet<>();
+    Set<Integer> numSet = new TreeSet<>();
 
     public int longestConsecutive(int[] nums) {
         for (int num: nums) {
