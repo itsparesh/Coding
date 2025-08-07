@@ -1,12 +1,11 @@
 class Solution {
-    Set<Integer> numSet = new TreeSet<>();
+    Set<Integer> numSet = new HashSet<>();
+    int maxLength =  0;
 
     public int longestConsecutive(int[] nums) {
         for (int num: nums) {
             numSet.add(num);
         }
-
-        int maxLength =  0;
 
         for (int num: numSet) {
             if (!numSet.contains(num - 1)) {
