@@ -5,6 +5,7 @@
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/itsparesh/Coding/tree/master/0001-two-sum) |
 | [0041-first-missing-positive](https://github.com/itsparesh/Coding/tree/master/0041-first-missing-positive) |
 | [0042-trapping-rain-water](https://github.com/itsparesh/Coding/tree/master/0042-trapping-rain-water) |
 | [0049-group-anagrams](https://github.com/itsparesh/Coding/tree/master/0049-group-anagrams) |
@@ -71,6 +72,7 @@
 ## Hash Table
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/itsparesh/Coding/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/itsparesh/Coding/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0041-first-missing-positive](https://github.com/itsparesh/Coding/tree/master/0041-first-missing-positive) |
 | [0049-group-anagrams](https://github.com/itsparesh/Coding/tree/master/0049-group-anagrams) |
