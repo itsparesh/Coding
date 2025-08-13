@@ -6,9 +6,9 @@ class Solution {
             char ch = s.charAt(end);
             if (indexMap.containsKey(ch)) {
                 front = Math.max(front, indexMap.get(ch) + 1);
-            }
+            } 
+            max = Math.max(max, end - front + 1);
             indexMap.put(ch, end);
-            max = Math.max(max, end - front + 1); 
         }
         return max;
     }
