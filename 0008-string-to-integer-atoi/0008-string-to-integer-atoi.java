@@ -1,7 +1,6 @@
 class Solution {
     public int myAtoi(String s) {
         int res = 0;
-        StringBuilder interim = new StringBuilder();
         s = s.trim();
         boolean isNegative = false;
         int len = s.length();
@@ -12,7 +11,7 @@ class Solution {
                     isNegative = true;
                     continue;
                 }
-                if (ch == '+') {
+                else if (ch == '+') {
                     continue;
                 }
                 
