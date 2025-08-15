@@ -49,6 +49,7 @@
 | [0207-course-schedule](https://github.com/itsparesh/Coding/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/itsparesh/Coding/tree/master/0210-course-schedule-ii) |
 | [0323-number-of-connected-components-in-an-undirected-graph](https://github.com/itsparesh/Coding/tree/master/0323-number-of-connected-components-in-an-undirected-graph) |
+| [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/itsparesh/Coding/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -58,6 +59,7 @@
 | [0207-course-schedule](https://github.com/itsparesh/Coding/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/itsparesh/Coding/tree/master/0210-course-schedule-ii) |
 | [0323-number-of-connected-components-in-an-undirected-graph](https://github.com/itsparesh/Coding/tree/master/0323-number-of-connected-components-in-an-undirected-graph) |
+| [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/itsparesh/Coding/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [1036-rotting-oranges](https://github.com/itsparesh/Coding/tree/master/1036-rotting-oranges) |
 ## Union Find
 |  |
@@ -83,6 +85,7 @@
 | [0146-lru-cache](https://github.com/itsparesh/Coding/tree/master/0146-lru-cache) |
 | [0347-top-k-frequent-elements](https://github.com/itsparesh/Coding/tree/master/0347-top-k-frequent-elements) |
 | [0778-reorganize-string](https://github.com/itsparesh/Coding/tree/master/0778-reorganize-string) |
+| [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/itsparesh/Coding/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [1108-analyze-user-website-visit-pattern](https://github.com/itsparesh/Coding/tree/master/1108-analyze-user-website-visit-pattern) |
 | [1713-dot-product-of-two-sparse-vectors](https://github.com/itsparesh/Coding/tree/master/1713-dot-product-of-two-sparse-vectors) |
 ## Linked List
@@ -128,16 +131,19 @@
 | [0049-group-anagrams](https://github.com/itsparesh/Coding/tree/master/0049-group-anagrams) |
 | [0347-top-k-frequent-elements](https://github.com/itsparesh/Coding/tree/master/0347-top-k-frequent-elements) |
 | [0778-reorganize-string](https://github.com/itsparesh/Coding/tree/master/0778-reorganize-string) |
+| [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/itsparesh/Coding/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [1108-analyze-user-website-visit-pattern](https://github.com/itsparesh/Coding/tree/master/1108-analyze-user-website-visit-pattern) |
 | [1742-widest-vertical-area-between-two-points-containing-no-points](https://github.com/itsparesh/Coding/tree/master/1742-widest-vertical-area-between-two-points-containing-no-points) |
 ## Tree
 |  |
 | ------- |
 | [0102-binary-tree-level-order-traversal](https://github.com/itsparesh/Coding/tree/master/0102-binary-tree-level-order-traversal) |
+| [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/itsparesh/Coding/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 ## Binary Tree
 |  |
 | ------- |
 | [0102-binary-tree-level-order-traversal](https://github.com/itsparesh/Coding/tree/master/0102-binary-tree-level-order-traversal) |
+| [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/itsparesh/Coding/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 ## Greedy
 |  |
 | ------- |
