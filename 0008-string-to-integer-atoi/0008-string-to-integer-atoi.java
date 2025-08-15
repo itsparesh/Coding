@@ -1,37 +1,24 @@
 class Solution {
     public int myAtoi(String s) {
-        int res = 0;
-        StringBuilder interim = new StringBuilder();
-        s = s.trim();
-        boolean isNegative = false;
-        int len = s.length();
-        for (int i = 0; i < len; i++) {
-            char ch = s.charAt(i);
-            if (i == 0) {
-                if (ch == '-' && !isNegative) {
-                    isNegative = true;
-                    continue;
-                }
-                if (ch == '+') {
-                    continue;
-                }
-                if (ch != '-' && ch != '+' && (ch < '0' || ch > '9')) {
-                    break;
-                }
-            }
-            if (ch < '0' || ch > '9') {
-                break;
-            }
-            interim.append(ch);
+        int i = 0, n = s.length();
+        while (i < n && s.charAt(i) == ' ') i++; // skip leading spaces
+
+        int sign = 1;
+        if (i < n && (s.charAt(i) == '-' || s.charAt(i) == '+')) {
+            sign = (s.charAt(i) == '-') ? -1 : 1;
+            i++;
         }
 
-        for (int i = 0; i < interim.length(); i++) {
-            int num = Integer.parseInt("" + interim.charAt(i));
-            if (res > (Integer.MAX_VALUE - num) / 10) {
-                return isNegative ? Integer.MIN_VALUE : Integer.MAX_VALUE;
+        int res = 0;
+        while (i < n && Character.isDigit(s.charAt(i))) {
+            int digit = s.charAt(i) - '0';
+            // Check for overflow/underflow before multiplying by 10
+            if (res > (Integer.MAX_VALUE - digit) / 10) {
+                return sign == 1 ? Integer.MAX_VALUE : Integer.MIN_VALUE;
             }
-            res = num + res * 10; 
+            res = res * 10 + digit;
+            i++;
         }
-        return isNegative? res * -1: res;
+        return res * sign;
     }
 }
