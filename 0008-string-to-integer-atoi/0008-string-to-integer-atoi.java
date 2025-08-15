@@ -20,15 +20,11 @@ class Solution {
             if (!Character.isDigit(ch)) {
                 break;
             }
-            interim.append(ch);
-        }
-
-        for (int i = 0; i < interim.length(); i++) {
-            int num = Integer.parseInt("" + interim.charAt(i));
+            int num = ch - '0';
             if (res > (Integer.MAX_VALUE - num) / 10) {
                 return isNegative ? Integer.MIN_VALUE : Integer.MAX_VALUE;
             }
-            res = num + res * 10; 
+            res = num + res * 10;
         }
         return isNegative? res * -1: res;
     }
