@@ -1,44 +1,58 @@
 class Solution {
 
     int fresh = 0;
+    int minute = 0;
     int ROW, COL;
 
     public int orangesRotting(int[][] grid) {
+        Queue<int[]> queue = new LinkedList<>();
         ROW = grid.length;
         COL = grid[0].length;
-        Queue<int[]> queue = new LinkedList<>();
-        for (int i = 0; i < grid.length; i++) {
-            for (int j = 0; j < grid[0].length; j++) {
-                if (grid[i][j] == 2) {
-                    queue.add(new int[]{i, j});
-                } 
+        for (int i = 0; i < ROW; i++) {
+            for (int j = 0; j < COL; j++) {
                 if (grid[i][j] == 1) {
                     fresh++;
                 }
-            }
-        }
-        if (fresh == 0) return 0;
-        
-        int minutes = 0;
-        int[][] DIRECTIONS = new int[][] {{-1, 0}, {1, 0}, {0, 1}, {0, -1}};
-        
-        while (!queue.isEmpty() && fresh > 0) {
-            int size = queue.size();
-            for (int j = 0; j < size; j++) {
-                int[] pair = queue.poll();
-                for (int[] direction: DIRECTIONS) {
-                    int nrow = pair[0] + direction[0];
-                    int ncol = pair[1] + direction[1];
-                    if (nrow >= 0 && nrow < ROW && ncol >= 0 && ncol < COL && grid[nrow][ncol] == 1) {
-                        grid[nrow][ncol] = 2;
-                        queue.add(new int[]{nrow, ncol});
-                        fresh--;
-                    }
+
+                if (grid[i][j] == 2) {
+                    queue.add(new int[] {i, j});
                 }
             }
-
-            minutes++;
         }
-        return fresh == 0 ? minutes : -1;
+
+        if (fresh == 0) return 0;
+
+        while (!queue.isEmpty() && fresh != 0) {
+            int size = queue.size();
+            for (int i = 0; i < size; i++) {
+                int[] arr = queue.poll();
+                int row = arr[0];
+                int col = arr[1];
+                if (row - 1 >= 0 && grid[row-1][col] == 1) {
+                    grid[row - 1][col] = 2;
+                    queue.add(new int[] {row - 1, col});
+                    fresh--;
+                }
+                if (row + 1 < ROW && grid[row+1][col] == 1) {
+                    grid[row + 1][col] = 2;
+                    queue.add(new int[] {row + 1, col});
+                    fresh--;
+                }
+                if (col + 1 < COL && grid[row][col+1] == 1) {
+                    grid[row][col + 1] = 2;
+                    queue.add(new int[] {row, col + 1});
+                    fresh--;
+                }
+                if (col - 1 >= 0 && grid[row][col-1] == 1) {
+                    grid[row][col - 1] = 2;
+                    queue.add(new int[] {row, col - 1});
+                    fresh--;
+                }
+            }
+            minute++;
+        }
+        
+        if (fresh != 0) return -1;
+        return minute;
     }
 }
