@@ -37,6 +37,7 @@
 | [0003-longest-substring-without-repeating-characters](https://github.com/itsparesh/Coding/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0005-longest-palindromic-substring](https://github.com/itsparesh/Coding/tree/master/0005-longest-palindromic-substring) |
 | [0008-string-to-integer-atoi](https://github.com/itsparesh/Coding/tree/master/0008-string-to-integer-atoi) |
+| [0013-roman-to-integer](https://github.com/itsparesh/Coding/tree/master/0013-roman-to-integer) |
 | [0049-group-anagrams](https://github.com/itsparesh/Coding/tree/master/0049-group-anagrams) |
 | [0127-word-ladder](https://github.com/itsparesh/Coding/tree/master/0127-word-ladder) |
 | [0778-reorganize-string](https://github.com/itsparesh/Coding/tree/master/0778-reorganize-string) |
@@ -79,6 +80,7 @@
 | ------- |
 | [0001-two-sum](https://github.com/itsparesh/Coding/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/itsparesh/Coding/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0013-roman-to-integer](https://github.com/itsparesh/Coding/tree/master/0013-roman-to-integer) |
 | [0041-first-missing-positive](https://github.com/itsparesh/Coding/tree/master/0041-first-missing-positive) |
 | [0049-group-anagrams](https://github.com/itsparesh/Coding/tree/master/0049-group-anagrams) |
 | [0127-word-ladder](https://github.com/itsparesh/Coding/tree/master/0127-word-ladder) |
@@ -108,6 +110,7 @@
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/itsparesh/Coding/tree/master/0002-add-two-numbers) |
+| [0013-roman-to-integer](https://github.com/itsparesh/Coding/tree/master/0013-roman-to-integer) |
 | [2033-the-number-of-full-rounds-you-have-played](https://github.com/itsparesh/Coding/tree/master/2033-the-number-of-full-rounds-you-have-played) |
 ## Matrix
 |  |
