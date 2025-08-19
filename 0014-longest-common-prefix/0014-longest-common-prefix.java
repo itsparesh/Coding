@@ -1,4 +1,4 @@
-public class Solution {
+class Solution {
     private TrieNode root = new TrieNode();
     StringBuilder res =  new StringBuilder();
 
