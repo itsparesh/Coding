@@ -7,6 +7,7 @@
 | ------- |
 | [0001-two-sum](https://github.com/itsparesh/Coding/tree/master/0001-two-sum) |
 | [0014-longest-common-prefix](https://github.com/itsparesh/Coding/tree/master/0014-longest-common-prefix) |
+| [0015-3sum](https://github.com/itsparesh/Coding/tree/master/0015-3sum) |
 | [0041-first-missing-positive](https://github.com/itsparesh/Coding/tree/master/0041-first-missing-positive) |
 | [0042-trapping-rain-water](https://github.com/itsparesh/Coding/tree/master/0042-trapping-rain-water) |
 | [0049-group-anagrams](https://github.com/itsparesh/Coding/tree/master/0049-group-anagrams) |
@@ -129,11 +130,13 @@
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/itsparesh/Coding/tree/master/0005-longest-palindromic-substring) |
+| [0015-3sum](https://github.com/itsparesh/Coding/tree/master/0015-3sum) |
 | [0042-trapping-rain-water](https://github.com/itsparesh/Coding/tree/master/0042-trapping-rain-water) |
 | [1713-dot-product-of-two-sparse-vectors](https://github.com/itsparesh/Coding/tree/master/1713-dot-product-of-two-sparse-vectors) |
 ## Sorting
 |  |
 | ------- |
+| [0015-3sum](https://github.com/itsparesh/Coding/tree/master/0015-3sum) |
 | [0049-group-anagrams](https://github.com/itsparesh/Coding/tree/master/0049-group-anagrams) |
 | [0347-top-k-frequent-elements](https://github.com/itsparesh/Coding/tree/master/0347-top-k-frequent-elements) |
 | [0778-reorganize-string](https://github.com/itsparesh/Coding/tree/master/0778-reorganize-string) |
