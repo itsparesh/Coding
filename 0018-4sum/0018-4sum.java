@@ -1,5 +1,5 @@
 class Solution {
-    List<List<Integer>> result = new ArrayList<>();
+    final List<List<Integer>> result = new ArrayList<>();
     public List<List<Integer>> fourSum(int[] nums, int target) {
         Arrays.sort(nums);
         kSum(nums, 0, (long) target, 4, new ArrayList<>());
