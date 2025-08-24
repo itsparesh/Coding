@@ -99,6 +99,7 @@
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/itsparesh/Coding/tree/master/0002-add-two-numbers) |
+| [0019-remove-nth-node-from-end-of-list](https://github.com/itsparesh/Coding/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0023-merge-k-sorted-lists](https://github.com/itsparesh/Coding/tree/master/0023-merge-k-sorted-lists) |
 | [0146-lru-cache](https://github.com/itsparesh/Coding/tree/master/0146-lru-cache) |
 ## Design
@@ -133,6 +134,7 @@
 | [0005-longest-palindromic-substring](https://github.com/itsparesh/Coding/tree/master/0005-longest-palindromic-substring) |
 | [0015-3sum](https://github.com/itsparesh/Coding/tree/master/0015-3sum) |
 | [0018-4sum](https://github.com/itsparesh/Coding/tree/master/0018-4sum) |
+| [0019-remove-nth-node-from-end-of-list](https://github.com/itsparesh/Coding/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0042-trapping-rain-water](https://github.com/itsparesh/Coding/tree/master/0042-trapping-rain-water) |
 | [1713-dot-product-of-two-sparse-vectors](https://github.com/itsparesh/Coding/tree/master/1713-dot-product-of-two-sparse-vectors) |
 ## Sorting
