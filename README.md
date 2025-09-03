@@ -105,6 +105,7 @@
 | [0023-merge-k-sorted-lists](https://github.com/itsparesh/Coding/tree/master/0023-merge-k-sorted-lists) |
 | [0025-reverse-nodes-in-k-group](https://github.com/itsparesh/Coding/tree/master/0025-reverse-nodes-in-k-group) |
 | [0146-lru-cache](https://github.com/itsparesh/Coding/tree/master/0146-lru-cache) |
+| [0528-swapping-nodes-in-a-linked-list](https://github.com/itsparesh/Coding/tree/master/0528-swapping-nodes-in-a-linked-list) |
 ## Design
 |  |
 | ------- |
@@ -139,6 +140,7 @@
 | [0018-4sum](https://github.com/itsparesh/Coding/tree/master/0018-4sum) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/itsparesh/Coding/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0042-trapping-rain-water](https://github.com/itsparesh/Coding/tree/master/0042-trapping-rain-water) |
+| [0528-swapping-nodes-in-a-linked-list](https://github.com/itsparesh/Coding/tree/master/0528-swapping-nodes-in-a-linked-list) |
 | [1713-dot-product-of-two-sparse-vectors](https://github.com/itsparesh/Coding/tree/master/1713-dot-product-of-two-sparse-vectors) |
 ## Sorting
 |  |
