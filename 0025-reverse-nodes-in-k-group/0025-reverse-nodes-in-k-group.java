@@ -10,34 +10,35 @@
  */
 class Solution {
     public ListNode reverseKGroup(ListNode head, int k) {
-        if (head == null || k == 1) return head;
+        if (head == null) return head;
+
         ListNode res = new ListNode(0);
         res.next = head;
-        ListNode prevGrpEnd = res;
-        ListNode prevGrpStart = head;
-
+        ListNode prevGroupEnd = res;
+        ListNode prevGroupStart = head;
+        
         while (true) {
-            ListNode kthNode = prevGrpEnd;
+            ListNode kthNode = prevGroupEnd;
             for (int i = 0; i < k && kthNode != null; i++) {
                 kthNode = kthNode.next;
             }
 
             if (kthNode == null) break;
 
-            ListNode nextGrpStart = kthNode.next;
-            ListNode curr = prevGrpStart;
-            ListNode prev = nextGrpStart;
+            ListNode nextGroupStart = kthNode.next;
+            ListNode curr = prevGroupStart;
+            ListNode prev = nextGroupStart;
 
-            while (curr != nextGrpStart) {
+            while (curr != nextGroupStart) {
                 ListNode temp = curr.next;
                 curr.next = prev;
                 prev = curr;
                 curr = temp;
             }
 
-            prevGrpEnd.next = kthNode;
-            prevGrpEnd = prevGrpStart;
-            prevGrpStart = nextGrpStart;   
+            prevGroupEnd.next = kthNode;
+            prevGroupEnd = prevGroupStart;
+            prevGroupStart = nextGroupStart;
         }
         return res.next;
     }
