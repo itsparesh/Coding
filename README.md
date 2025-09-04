@@ -20,6 +20,7 @@
 | [0221-maximal-square](https://github.com/itsparesh/Coding/tree/master/0221-maximal-square) |
 | [0347-top-k-frequent-elements](https://github.com/itsparesh/Coding/tree/master/0347-top-k-frequent-elements) |
 | [1036-rotting-oranges](https://github.com/itsparesh/Coding/tree/master/1036-rotting-oranges) |
+| [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/itsparesh/Coding/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
 | [1108-analyze-user-website-visit-pattern](https://github.com/itsparesh/Coding/tree/master/1108-analyze-user-website-visit-pattern) |
 | [1713-dot-product-of-two-sparse-vectors](https://github.com/itsparesh/Coding/tree/master/1713-dot-product-of-two-sparse-vectors) |
 | [1742-widest-vertical-area-between-two-points-containing-no-points](https://github.com/itsparesh/Coding/tree/master/1742-widest-vertical-area-between-two-points-containing-no-points) |
@@ -160,11 +161,13 @@
 | ------- |
 | [0102-binary-tree-level-order-traversal](https://github.com/itsparesh/Coding/tree/master/0102-binary-tree-level-order-traversal) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/itsparesh/Coding/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
+| [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/itsparesh/Coding/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
 ## Binary Tree
 |  |
 | ------- |
 | [0102-binary-tree-level-order-traversal](https://github.com/itsparesh/Coding/tree/master/0102-binary-tree-level-order-traversal) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/itsparesh/Coding/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
+| [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/itsparesh/Coding/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
 ## Greedy
 |  |
 | ------- |
@@ -198,10 +201,12 @@
 | ------- |
 | [0020-valid-parentheses](https://github.com/itsparesh/Coding/tree/master/0020-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/itsparesh/Coding/tree/master/0042-trapping-rain-water) |
+| [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/itsparesh/Coding/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
 ## Monotonic Stack
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/itsparesh/Coding/tree/master/0042-trapping-rain-water) |
+| [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/itsparesh/Coding/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
 ## Merge Sort
 |  |
 | ------- |
@@ -225,4 +230,8 @@
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/itsparesh/Coding/tree/master/0014-longest-common-prefix) |
+## Binary Search Tree
+|  |
+| ------- |
+| [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/itsparesh/Coding/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
 <!---LeetCode Topics End-->
