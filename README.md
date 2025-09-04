@@ -45,6 +45,7 @@
 | [0013-roman-to-integer](https://github.com/itsparesh/Coding/tree/master/0013-roman-to-integer) |
 | [0014-longest-common-prefix](https://github.com/itsparesh/Coding/tree/master/0014-longest-common-prefix) |
 | [0020-valid-parentheses](https://github.com/itsparesh/Coding/tree/master/0020-valid-parentheses) |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/itsparesh/Coding/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0049-group-anagrams](https://github.com/itsparesh/Coding/tree/master/0049-group-anagrams) |
 | [0127-word-ladder](https://github.com/itsparesh/Coding/tree/master/0127-word-ladder) |
 | [0778-reorganize-string](https://github.com/itsparesh/Coding/tree/master/0778-reorganize-string) |
@@ -142,6 +143,7 @@
 | [0018-4sum](https://github.com/itsparesh/Coding/tree/master/0018-4sum) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/itsparesh/Coding/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/itsparesh/Coding/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/itsparesh/Coding/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0042-trapping-rain-water](https://github.com/itsparesh/Coding/tree/master/0042-trapping-rain-water) |
 | [0528-swapping-nodes-in-a-linked-list](https://github.com/itsparesh/Coding/tree/master/0528-swapping-nodes-in-a-linked-list) |
 | [1713-dot-product-of-two-sparse-vectors](https://github.com/itsparesh/Coding/tree/master/1713-dot-product-of-two-sparse-vectors) |
@@ -234,4 +236,8 @@
 |  |
 | ------- |
 | [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/itsparesh/Coding/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
+## String Matching
+|  |
+| ------- |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/itsparesh/Coding/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 <!---LeetCode Topics End-->
