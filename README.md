@@ -10,6 +10,7 @@
 | [0015-3sum](https://github.com/itsparesh/Coding/tree/master/0015-3sum) |
 | [0018-4sum](https://github.com/itsparesh/Coding/tree/master/0018-4sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/itsparesh/Coding/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0031-next-permutation](https://github.com/itsparesh/Coding/tree/master/0031-next-permutation) |
 | [0041-first-missing-positive](https://github.com/itsparesh/Coding/tree/master/0041-first-missing-positive) |
 | [0042-trapping-rain-water](https://github.com/itsparesh/Coding/tree/master/0042-trapping-rain-water) |
 | [0049-group-anagrams](https://github.com/itsparesh/Coding/tree/master/0049-group-anagrams) |
@@ -144,6 +145,7 @@
 | [0019-remove-nth-node-from-end-of-list](https://github.com/itsparesh/Coding/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/itsparesh/Coding/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/itsparesh/Coding/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0031-next-permutation](https://github.com/itsparesh/Coding/tree/master/0031-next-permutation) |
 | [0042-trapping-rain-water](https://github.com/itsparesh/Coding/tree/master/0042-trapping-rain-water) |
 | [0528-swapping-nodes-in-a-linked-list](https://github.com/itsparesh/Coding/tree/master/0528-swapping-nodes-in-a-linked-list) |
 | [1713-dot-product-of-two-sparse-vectors](https://github.com/itsparesh/Coding/tree/master/1713-dot-product-of-two-sparse-vectors) |
