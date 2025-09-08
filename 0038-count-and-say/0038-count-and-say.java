@@ -11,29 +11,17 @@ class Solution {
     private String count(String num) {
         StringBuilder stringBuilder = new StringBuilder();
         int count = 1;
-        int len = num.length();
-        if (len > 1) {
-            char ch = '1';
-            char chNext = '1';
-            for (int i = 0; i < num.length() && i + 1 < num.length(); i++) {
-                ch = num.charAt(i);
-                chNext = num.charAt(i + 1);
-                if (ch == chNext) {
-                    count++;
-                } else {
-                    stringBuilder.append(count);
-                    stringBuilder.append(ch);
-                    count = 1;
-                }
+        for (int i = 1; i < num.length(); i++) {
+            char ch = num.charAt(i);
+            char chPrev = num.charAt(i - 1);
+            if (ch == chPrev) {
+                count++;
+            } else {
+                stringBuilder.append(count).append(chPrev);
+                count = 1;
             }
-            if (count >= 1) {
-                stringBuilder.append(count);
-                stringBuilder.append(chNext);
-            }
-        } else {
-            stringBuilder.append(1);
-            stringBuilder.append(1);
-        }    
+        }
+        stringBuilder.append(count).append(num.charAt(num.length() - 1));
         return stringBuilder.toString();
     }
 }
