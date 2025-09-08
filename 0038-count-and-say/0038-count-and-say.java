@@ -12,12 +12,10 @@ class Solution {
         StringBuilder stringBuilder = new StringBuilder();
         int count = 1;
         for (int i = 1; i < num.length(); i++) {
-            char ch = num.charAt(i);
-            char chPrev = num.charAt(i - 1);
-            if (ch == chPrev) {
+            if (num.charAt(i) == num.charAt(i - 1)) {
                 count++;
             } else {
-                stringBuilder.append(count).append(chPrev);
+                stringBuilder.append(count).append(num.charAt(i - 1));
                 count = 1;
             }
         }
