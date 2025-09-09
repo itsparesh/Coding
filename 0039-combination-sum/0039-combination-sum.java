@@ -17,7 +17,7 @@ class Solution {
 
         current.add(candidates[index]);
         findCombination(candidates, target, index, current, total + candidates[index]);
-        current.remove(current.size() - 1);
+        current.removeLast();
         findCombination(candidates, target, index + 1, current, total);
     }
 }
