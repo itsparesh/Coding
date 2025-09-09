@@ -2,6 +2,7 @@ class Solution {
     private List<List<Integer>> result = new ArrayList<>();
 
     public List<List<Integer>> combinationSum(int[] candidates, int target) {
+        Arrays.sort(candidates);
         findCombination(candidates, target, 0, new ArrayList<>(), 0);
         return result;
     }
@@ -11,13 +12,17 @@ class Solution {
             return;
         }
 
-        if (index >= candidates.length || total > target) {
+        if (total > target) {
             return;
         }
 
-        current.add(candidates[index]);
-        findCombination(candidates, target, index, current, total + candidates[index]);
-        current.removeLast();
-        findCombination(candidates, target, index + 1, current, total);
+        for (int i = index; i < candidates.length; i++) {
+            if (total + candidates[i] > target) {
+                break;
+            }
+            current.add(candidates[i]);
+            findCombination(candidates, target, i, current, total + candidates[i]);
+            current.removeLast();
+        }
     }
 }
