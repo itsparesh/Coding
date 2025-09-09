@@ -14,11 +14,12 @@ class Solution {
             return;
         }
 
-        if (index >= candidates.length || total > target) {
+        if (index >= candidates.length) {
             return;
         }
 
         for (int i = index; i < candidates.length; i++) {
+            if (total + candidates[i] > target) break;
             if (prev == candidates[i]) {
                 continue;
             }
