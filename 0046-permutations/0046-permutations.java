@@ -1,6 +1,6 @@
 class Solution {
     private List<List<Integer>> result = new ArrayList<>(); 
-    private Set<Integer> usedSet = new HashSet<>();
+    //private Set<Integer> usedSet = new HashSet<>();
 
     public List<List<Integer>> permute(int[] nums) {
         findPermutation(nums, new ArrayList<>());
@@ -13,12 +13,12 @@ class Solution {
             return;
         } 
         for (Integer num : nums) {
-            if (usedSet.contains(num)) continue;
-            usedSet.add(num);
+            if (current.contains(num)) continue;
+            //usedSet.add(num);
             current.add(num);
             findPermutation(nums, current);
             current.remove(current.size() - 1); 
-            usedSet.remove(num);  
+            //usedSet.remove(num);  
         }
     }
 }
