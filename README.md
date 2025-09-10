@@ -15,6 +15,7 @@
 | [0040-combination-sum-ii](https://github.com/itsparesh/Coding/tree/master/0040-combination-sum-ii) |
 | [0041-first-missing-positive](https://github.com/itsparesh/Coding/tree/master/0041-first-missing-positive) |
 | [0042-trapping-rain-water](https://github.com/itsparesh/Coding/tree/master/0042-trapping-rain-water) |
+| [0046-permutations](https://github.com/itsparesh/Coding/tree/master/0046-permutations) |
 | [0049-group-anagrams](https://github.com/itsparesh/Coding/tree/master/0049-group-anagrams) |
 | [0064-minimum-path-sum](https://github.com/itsparesh/Coding/tree/master/0064-minimum-path-sum) |
 | [0128-longest-consecutive-sequence](https://github.com/itsparesh/Coding/tree/master/0128-longest-consecutive-sequence) |
@@ -253,4 +254,5 @@
 | ------- |
 | [0039-combination-sum](https://github.com/itsparesh/Coding/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/itsparesh/Coding/tree/master/0040-combination-sum-ii) |
+| [0046-permutations](https://github.com/itsparesh/Coding/tree/master/0046-permutations) |
 <!---LeetCode Topics End-->
