@@ -23,6 +23,7 @@
 | [0200-number-of-islands](https://github.com/itsparesh/Coding/tree/master/0200-number-of-islands) |
 | [0221-maximal-square](https://github.com/itsparesh/Coding/tree/master/0221-maximal-square) |
 | [0347-top-k-frequent-elements](https://github.com/itsparesh/Coding/tree/master/0347-top-k-frequent-elements) |
+| [0898-transpose-matrix](https://github.com/itsparesh/Coding/tree/master/0898-transpose-matrix) |
 | [1036-rotting-oranges](https://github.com/itsparesh/Coding/tree/master/1036-rotting-oranges) |
 | [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/itsparesh/Coding/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
 | [1108-analyze-user-website-visit-pattern](https://github.com/itsparesh/Coding/tree/master/1108-analyze-user-website-visit-pattern) |
@@ -136,10 +137,12 @@
 | [0064-minimum-path-sum](https://github.com/itsparesh/Coding/tree/master/0064-minimum-path-sum) |
 | [0200-number-of-islands](https://github.com/itsparesh/Coding/tree/master/0200-number-of-islands) |
 | [0221-maximal-square](https://github.com/itsparesh/Coding/tree/master/0221-maximal-square) |
+| [0898-transpose-matrix](https://github.com/itsparesh/Coding/tree/master/0898-transpose-matrix) |
 | [1036-rotting-oranges](https://github.com/itsparesh/Coding/tree/master/1036-rotting-oranges) |
 ## Simulation
 |  |
 | ------- |
+| [0898-transpose-matrix](https://github.com/itsparesh/Coding/tree/master/0898-transpose-matrix) |
 | [3164-last-visited-integers](https://github.com/itsparesh/Coding/tree/master/3164-last-visited-integers) |
 ## Two Pointers
 |  |
