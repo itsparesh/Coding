@@ -16,6 +16,7 @@
 | [0041-first-missing-positive](https://github.com/itsparesh/Coding/tree/master/0041-first-missing-positive) |
 | [0042-trapping-rain-water](https://github.com/itsparesh/Coding/tree/master/0042-trapping-rain-water) |
 | [0046-permutations](https://github.com/itsparesh/Coding/tree/master/0046-permutations) |
+| [0048-rotate-image](https://github.com/itsparesh/Coding/tree/master/0048-rotate-image) |
 | [0049-group-anagrams](https://github.com/itsparesh/Coding/tree/master/0049-group-anagrams) |
 | [0064-minimum-path-sum](https://github.com/itsparesh/Coding/tree/master/0064-minimum-path-sum) |
 | [0128-longest-consecutive-sequence](https://github.com/itsparesh/Coding/tree/master/0128-longest-consecutive-sequence) |
@@ -130,10 +131,12 @@
 | ------- |
 | [0002-add-two-numbers](https://github.com/itsparesh/Coding/tree/master/0002-add-two-numbers) |
 | [0013-roman-to-integer](https://github.com/itsparesh/Coding/tree/master/0013-roman-to-integer) |
+| [0048-rotate-image](https://github.com/itsparesh/Coding/tree/master/0048-rotate-image) |
 | [2033-the-number-of-full-rounds-you-have-played](https://github.com/itsparesh/Coding/tree/master/2033-the-number-of-full-rounds-you-have-played) |
 ## Matrix
 |  |
 | ------- |
+| [0048-rotate-image](https://github.com/itsparesh/Coding/tree/master/0048-rotate-image) |
 | [0064-minimum-path-sum](https://github.com/itsparesh/Coding/tree/master/0064-minimum-path-sum) |
 | [0200-number-of-islands](https://github.com/itsparesh/Coding/tree/master/0200-number-of-islands) |
 | [0221-maximal-square](https://github.com/itsparesh/Coding/tree/master/0221-maximal-square) |
