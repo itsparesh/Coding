@@ -19,6 +19,7 @@
 | [0048-rotate-image](https://github.com/itsparesh/Coding/tree/master/0048-rotate-image) |
 | [0049-group-anagrams](https://github.com/itsparesh/Coding/tree/master/0049-group-anagrams) |
 | [0053-maximum-subarray](https://github.com/itsparesh/Coding/tree/master/0053-maximum-subarray) |
+| [0056-merge-intervals](https://github.com/itsparesh/Coding/tree/master/0056-merge-intervals) |
 | [0064-minimum-path-sum](https://github.com/itsparesh/Coding/tree/master/0064-minimum-path-sum) |
 | [0128-longest-consecutive-sequence](https://github.com/itsparesh/Coding/tree/master/0128-longest-consecutive-sequence) |
 | [0198-house-robber](https://github.com/itsparesh/Coding/tree/master/0198-house-robber) |
@@ -169,6 +170,7 @@
 | [0015-3sum](https://github.com/itsparesh/Coding/tree/master/0015-3sum) |
 | [0018-4sum](https://github.com/itsparesh/Coding/tree/master/0018-4sum) |
 | [0049-group-anagrams](https://github.com/itsparesh/Coding/tree/master/0049-group-anagrams) |
+| [0056-merge-intervals](https://github.com/itsparesh/Coding/tree/master/0056-merge-intervals) |
 | [0347-top-k-frequent-elements](https://github.com/itsparesh/Coding/tree/master/0347-top-k-frequent-elements) |
 | [0778-reorganize-string](https://github.com/itsparesh/Coding/tree/master/0778-reorganize-string) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/itsparesh/Coding/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
