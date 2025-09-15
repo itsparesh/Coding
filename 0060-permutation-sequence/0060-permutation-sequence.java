@@ -7,16 +7,18 @@ class Solution {
             numList.add(i);
         }
 
-        while (n > 0) {
-            int factorial = factorial(n-1);
-            int index =  k / factorial;
-            if (k % factorial == 0) {
-                index -= 1;
-            }
-            str.append(numList.get(index));
-            numList.remove(index);
-            k = k - factorial * index;
-            n = numList.size();
+        if (n > 0) {
+            do {
+                int factorial = factorial(n - 1);
+                int index = k / factorial;
+                if (k % factorial == 0) {
+                    index -= 1;
+                }
+                str.append(numList.get(index));
+                numList.remove(index);
+                k = k - factorial * index;
+                n = numList.size();
+            } while (n > 0);
         }
         return str.toString();
     }
