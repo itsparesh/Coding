@@ -4,12 +4,6 @@ class Solution {
         int n = word2.length();
         int[][] dp = new int[m+1][n+1];
 
-        for (int i = 0; i < m; i++) {
-            for (int j = 0; j < n; j++) {
-                dp[i][j] = Integer.MAX_VALUE;
-            }
-        }
-
         for (int i = 0; i <= m; i++) {
             dp[i][n] = m-i;
         }
