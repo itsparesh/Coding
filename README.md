@@ -40,6 +40,7 @@
 | [0005-longest-palindromic-substring](https://github.com/itsparesh/Coding/tree/master/0005-longest-palindromic-substring) |
 | [0042-trapping-rain-water](https://github.com/itsparesh/Coding/tree/master/0042-trapping-rain-water) |
 | [0053-maximum-subarray](https://github.com/itsparesh/Coding/tree/master/0053-maximum-subarray) |
+| [0062-unique-paths](https://github.com/itsparesh/Coding/tree/master/0062-unique-paths) |
 | [0064-minimum-path-sum](https://github.com/itsparesh/Coding/tree/master/0064-minimum-path-sum) |
 | [0198-house-robber](https://github.com/itsparesh/Coding/tree/master/0198-house-robber) |
 | [0221-maximal-square](https://github.com/itsparesh/Coding/tree/master/0221-maximal-square) |
@@ -138,6 +139,7 @@
 | [0048-rotate-image](https://github.com/itsparesh/Coding/tree/master/0048-rotate-image) |
 | [0050-powx-n](https://github.com/itsparesh/Coding/tree/master/0050-powx-n) |
 | [0060-permutation-sequence](https://github.com/itsparesh/Coding/tree/master/0060-permutation-sequence) |
+| [0062-unique-paths](https://github.com/itsparesh/Coding/tree/master/0062-unique-paths) |
 | [2033-the-number-of-full-rounds-you-have-played](https://github.com/itsparesh/Coding/tree/master/2033-the-number-of-full-rounds-you-have-played) |
 ## Matrix
 |  |
@@ -272,4 +274,8 @@
 | [0039-combination-sum](https://github.com/itsparesh/Coding/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/itsparesh/Coding/tree/master/0040-combination-sum-ii) |
 | [0046-permutations](https://github.com/itsparesh/Coding/tree/master/0046-permutations) |
+## Combinatorics
+|  |
+| ------- |
+| [0062-unique-paths](https://github.com/itsparesh/Coding/tree/master/0062-unique-paths) |
 <!---LeetCode Topics End-->
