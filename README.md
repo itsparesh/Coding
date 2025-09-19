@@ -22,6 +22,7 @@
 | [0056-merge-intervals](https://github.com/itsparesh/Coding/tree/master/0056-merge-intervals) |
 | [0064-minimum-path-sum](https://github.com/itsparesh/Coding/tree/master/0064-minimum-path-sum) |
 | [0073-set-matrix-zeroes](https://github.com/itsparesh/Coding/tree/master/0073-set-matrix-zeroes) |
+| [0074-search-a-2d-matrix](https://github.com/itsparesh/Coding/tree/master/0074-search-a-2d-matrix) |
 | [0128-longest-consecutive-sequence](https://github.com/itsparesh/Coding/tree/master/0128-longest-consecutive-sequence) |
 | [0198-house-robber](https://github.com/itsparesh/Coding/tree/master/0198-house-robber) |
 | [0200-number-of-islands](https://github.com/itsparesh/Coding/tree/master/0200-number-of-islands) |
@@ -151,6 +152,7 @@
 | [0048-rotate-image](https://github.com/itsparesh/Coding/tree/master/0048-rotate-image) |
 | [0064-minimum-path-sum](https://github.com/itsparesh/Coding/tree/master/0064-minimum-path-sum) |
 | [0073-set-matrix-zeroes](https://github.com/itsparesh/Coding/tree/master/0073-set-matrix-zeroes) |
+| [0074-search-a-2d-matrix](https://github.com/itsparesh/Coding/tree/master/0074-search-a-2d-matrix) |
 | [0200-number-of-islands](https://github.com/itsparesh/Coding/tree/master/0200-number-of-islands) |
 | [0221-maximal-square](https://github.com/itsparesh/Coding/tree/master/0221-maximal-square) |
 | [0898-transpose-matrix](https://github.com/itsparesh/Coding/tree/master/0898-transpose-matrix) |
@@ -268,6 +270,7 @@
 ## Binary Search Tree
 |  |
 | ------- |
+| [0074-search-a-2d-matrix](https://github.com/itsparesh/Coding/tree/master/0074-search-a-2d-matrix) |
 | [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/itsparesh/Coding/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
 ## String Matching
 |  |
