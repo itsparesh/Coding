@@ -21,6 +21,7 @@
 | [0053-maximum-subarray](https://github.com/itsparesh/Coding/tree/master/0053-maximum-subarray) |
 | [0056-merge-intervals](https://github.com/itsparesh/Coding/tree/master/0056-merge-intervals) |
 | [0064-minimum-path-sum](https://github.com/itsparesh/Coding/tree/master/0064-minimum-path-sum) |
+| [0073-set-matrix-zeroes](https://github.com/itsparesh/Coding/tree/master/0073-set-matrix-zeroes) |
 | [0128-longest-consecutive-sequence](https://github.com/itsparesh/Coding/tree/master/0128-longest-consecutive-sequence) |
 | [0198-house-robber](https://github.com/itsparesh/Coding/tree/master/0198-house-robber) |
 | [0200-number-of-islands](https://github.com/itsparesh/Coding/tree/master/0200-number-of-islands) |
@@ -105,6 +106,7 @@
 | [0013-roman-to-integer](https://github.com/itsparesh/Coding/tree/master/0013-roman-to-integer) |
 | [0041-first-missing-positive](https://github.com/itsparesh/Coding/tree/master/0041-first-missing-positive) |
 | [0049-group-anagrams](https://github.com/itsparesh/Coding/tree/master/0049-group-anagrams) |
+| [0073-set-matrix-zeroes](https://github.com/itsparesh/Coding/tree/master/0073-set-matrix-zeroes) |
 | [0127-word-ladder](https://github.com/itsparesh/Coding/tree/master/0127-word-ladder) |
 | [0128-longest-consecutive-sequence](https://github.com/itsparesh/Coding/tree/master/0128-longest-consecutive-sequence) |
 | [0146-lru-cache](https://github.com/itsparesh/Coding/tree/master/0146-lru-cache) |
@@ -148,6 +150,7 @@
 | ------- |
 | [0048-rotate-image](https://github.com/itsparesh/Coding/tree/master/0048-rotate-image) |
 | [0064-minimum-path-sum](https://github.com/itsparesh/Coding/tree/master/0064-minimum-path-sum) |
+| [0073-set-matrix-zeroes](https://github.com/itsparesh/Coding/tree/master/0073-set-matrix-zeroes) |
 | [0200-number-of-islands](https://github.com/itsparesh/Coding/tree/master/0200-number-of-islands) |
 | [0221-maximal-square](https://github.com/itsparesh/Coding/tree/master/0221-maximal-square) |
 | [0898-transpose-matrix](https://github.com/itsparesh/Coding/tree/master/0898-transpose-matrix) |
