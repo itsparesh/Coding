@@ -17,7 +17,6 @@ class Solution {
                 }
             }
             if (!result) {
-                System.out.println("Not present = " + i);
                 return false;
             }
         }
