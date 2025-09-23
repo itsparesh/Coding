@@ -3,7 +3,11 @@ class Solution {
         //Arrays.sort(ranges, (a, b) -> Integer.compare(a[0], b[0]));
         TreeMap<Integer, Integer> map = new TreeMap<>();
         for (int[] arr: ranges) {
-            map.put(arr[0], Math.max(arr[1], map.getOrDefault(arr[0], 0)));
+            if (map.containsKey(arr[0])) {
+                map.put(arr[0], Math.max(map.get(arr[0]), arr[1]));
+            } else {
+                map.put(arr[0], arr[1]);
+            }  
         }
 
         boolean result = true;
