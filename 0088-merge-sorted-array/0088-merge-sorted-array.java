@@ -10,10 +10,8 @@ class Solution {
             }
         }
 
-        if (j >= 0) {
-            while (j >= 0) {
-                nums1[index--] = nums2[j--];
-            }
+        while (j >= 0) {
+            nums1[index--] = nums2[j--];
         }
     }
 }
