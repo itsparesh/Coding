@@ -25,6 +25,7 @@
 | [0074-search-a-2d-matrix](https://github.com/itsparesh/Coding/tree/master/0074-search-a-2d-matrix) |
 | [0075-sort-colors](https://github.com/itsparesh/Coding/tree/master/0075-sort-colors) |
 | [0084-largest-rectangle-in-histogram](https://github.com/itsparesh/Coding/tree/master/0084-largest-rectangle-in-histogram) |
+| [0088-merge-sorted-array](https://github.com/itsparesh/Coding/tree/master/0088-merge-sorted-array) |
 | [0128-longest-consecutive-sequence](https://github.com/itsparesh/Coding/tree/master/0128-longest-consecutive-sequence) |
 | [0198-house-robber](https://github.com/itsparesh/Coding/tree/master/0198-house-robber) |
 | [0200-number-of-islands](https://github.com/itsparesh/Coding/tree/master/0200-number-of-islands) |
@@ -179,6 +180,7 @@
 | [0042-trapping-rain-water](https://github.com/itsparesh/Coding/tree/master/0042-trapping-rain-water) |
 | [0061-rotate-list](https://github.com/itsparesh/Coding/tree/master/0061-rotate-list) |
 | [0075-sort-colors](https://github.com/itsparesh/Coding/tree/master/0075-sort-colors) |
+| [0088-merge-sorted-array](https://github.com/itsparesh/Coding/tree/master/0088-merge-sorted-array) |
 | [0528-swapping-nodes-in-a-linked-list](https://github.com/itsparesh/Coding/tree/master/0528-swapping-nodes-in-a-linked-list) |
 | [1713-dot-product-of-two-sparse-vectors](https://github.com/itsparesh/Coding/tree/master/1713-dot-product-of-two-sparse-vectors) |
 ## Sorting
@@ -189,6 +191,7 @@
 | [0049-group-anagrams](https://github.com/itsparesh/Coding/tree/master/0049-group-anagrams) |
 | [0056-merge-intervals](https://github.com/itsparesh/Coding/tree/master/0056-merge-intervals) |
 | [0075-sort-colors](https://github.com/itsparesh/Coding/tree/master/0075-sort-colors) |
+| [0088-merge-sorted-array](https://github.com/itsparesh/Coding/tree/master/0088-merge-sorted-array) |
 | [0347-top-k-frequent-elements](https://github.com/itsparesh/Coding/tree/master/0347-top-k-frequent-elements) |
 | [0778-reorganize-string](https://github.com/itsparesh/Coding/tree/master/0778-reorganize-string) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/itsparesh/Coding/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
