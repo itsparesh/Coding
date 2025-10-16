@@ -14,9 +14,11 @@ class Solution {
             int i = nums[0];
             int j = nums[1];
             Arrays.fill(matrix[i], 0);
+        }
 
+        for (int[] nums: zeroSet) {
             for (int k = 0; k < matrix.length; k++) {
-                matrix[k][j] = 0;
+                matrix[k][nums[1]] = 0;
             }
         }
     }
