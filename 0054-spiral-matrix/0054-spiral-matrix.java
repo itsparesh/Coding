@@ -1,48 +1,42 @@
 class Solution {
-    private List<Integer> result = new ArrayList<>();
-
     public List<Integer> spiralOrder(int[][] matrix) {
+        List<Integer> result = new ArrayList<>();
         if (matrix == null) {
             return result;
         }
-        spiral(matrix, matrix.length, matrix[0].length, 0, 0);
-        return result;
-    }
+        int top = 0, bottom = matrix.length - 1, left = 0, right = matrix[0].length - 1;
 
-    private void spiral(int[][] matrix, int m, int n, int rowStart, int colStart) {
-        int i = 0;
-        while (rowStart < m && colStart < n) {
-            // right
-            i = colStart;
-            while (i < n) {
-                result.add(matrix[rowStart][i++]);
+        while (top <= bottom && left <= right) {
+            //right
+            for (int i = left; i <= right; i++) {
+                result.add(matrix[top][i]);
             }
-            
-            // down
-            i = ++rowStart;
-            while (i < m) {
-                result.add(matrix[i++][n-1]);
+            top++;
+
+            //bottom
+            for (int i = top; i <= bottom; i++) {
+                result.add(matrix[i][right]);
             }
+            right--;
 
             //left
-            --n;
-            if (rowStart < m) {
-                i = n;
-                while (i > colStart) {
-                    result.add(matrix[m-1][--i]);
+            if (top <= bottom) {
+                for (int i = right; i >= left; i--) {
+                    result.add(matrix[bottom][i]);
                 }
+                bottom--;
             }
-             
-            //up
-            --m;
-            if (colStart < n) {
-                i = m;
-                while (i > rowStart) {
-                    result.add(matrix[--i][colStart]);
+            
+
+            //top
+            if (left <= right) {
+                for (int i = bottom; i >= top; i--) {
+                    result.add(matrix[i][left]);
                 }
-                colStart++;
+                left++;
             }
         }
+
+        return result;
     }
-    
 }
