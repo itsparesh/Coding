@@ -34,6 +34,7 @@
 | [0221-maximal-square](https://github.com/itsparesh/Coding/tree/master/0221-maximal-square) |
 | [0238-product-of-array-except-self](https://github.com/itsparesh/Coding/tree/master/0238-product-of-array-except-self) |
 | [0347-top-k-frequent-elements](https://github.com/itsparesh/Coding/tree/master/0347-top-k-frequent-elements) |
+| [0362-design-hit-counter](https://github.com/itsparesh/Coding/tree/master/0362-design-hit-counter) |
 | [0898-transpose-matrix](https://github.com/itsparesh/Coding/tree/master/0898-transpose-matrix) |
 | [1036-rotting-oranges](https://github.com/itsparesh/Coding/tree/master/1036-rotting-oranges) |
 | [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/itsparesh/Coding/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
@@ -139,6 +140,7 @@
 |  |
 | ------- |
 | [0146-lru-cache](https://github.com/itsparesh/Coding/tree/master/0146-lru-cache) |
+| [0362-design-hit-counter](https://github.com/itsparesh/Coding/tree/master/0362-design-hit-counter) |
 | [1713-dot-product-of-two-sparse-vectors](https://github.com/itsparesh/Coding/tree/master/1713-dot-product-of-two-sparse-vectors) |
 ## Doubly-Linked List
 |  |
@@ -289,6 +291,7 @@
 |  |
 | ------- |
 | [0074-search-a-2d-matrix](https://github.com/itsparesh/Coding/tree/master/0074-search-a-2d-matrix) |
+| [0362-design-hit-counter](https://github.com/itsparesh/Coding/tree/master/0362-design-hit-counter) |
 | [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/itsparesh/Coding/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
 ## String Matching
 |  |
@@ -309,4 +312,12 @@
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/itsparesh/Coding/tree/master/0238-product-of-array-except-self) |
 | [2005-check-if-all-the-integers-in-a-range-are-covered](https://github.com/itsparesh/Coding/tree/master/2005-check-if-all-the-integers-in-a-range-are-covered) |
+## Queue
+|  |
+| ------- |
+| [0362-design-hit-counter](https://github.com/itsparesh/Coding/tree/master/0362-design-hit-counter) |
+## Data Stream
+|  |
+| ------- |
+| [0362-design-hit-counter](https://github.com/itsparesh/Coding/tree/master/0362-design-hit-counter) |
 <!---LeetCode Topics End-->
