@@ -135,6 +135,7 @@
 | [0025-reverse-nodes-in-k-group](https://github.com/itsparesh/Coding/tree/master/0025-reverse-nodes-in-k-group) |
 | [0061-rotate-list](https://github.com/itsparesh/Coding/tree/master/0061-rotate-list) |
 | [0146-lru-cache](https://github.com/itsparesh/Coding/tree/master/0146-lru-cache) |
+| [0206-reverse-linked-list](https://github.com/itsparesh/Coding/tree/master/0206-reverse-linked-list) |
 | [0528-swapping-nodes-in-a-linked-list](https://github.com/itsparesh/Coding/tree/master/0528-swapping-nodes-in-a-linked-list) |
 ## Design
 |  |
@@ -279,6 +280,7 @@
 | [0025-reverse-nodes-in-k-group](https://github.com/itsparesh/Coding/tree/master/0025-reverse-nodes-in-k-group) |
 | [0050-powx-n](https://github.com/itsparesh/Coding/tree/master/0050-powx-n) |
 | [0060-permutation-sequence](https://github.com/itsparesh/Coding/tree/master/0060-permutation-sequence) |
+| [0206-reverse-linked-list](https://github.com/itsparesh/Coding/tree/master/0206-reverse-linked-list) |
 ## Sliding Window
 |  |
 | ------- |
