@@ -8,7 +8,9 @@ class HitCounter {
     
     public void hit(int timestamp) {
         timeStampList.add(timestamp);
-        
+        while ((timeStampList.getLast() - timeStampList.getFirst()) >= 300) {
+            timeStampList.remove(timeStampList.getFirst());
+        }
     }
     
     public int getHits(int timestamp) {
