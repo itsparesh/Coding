@@ -12,9 +12,7 @@ class Solution {
                 range = arr;
             }
         }
-        if (!result.contains(range)) {
-            result.add(range);
-        }
+        result.add(range);
         return result.toArray(new int[0][]);
     }
 }
