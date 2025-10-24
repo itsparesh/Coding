@@ -12,6 +12,7 @@
 | [0018-4sum](https://github.com/itsparesh/Coding/tree/master/0018-4sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/itsparesh/Coding/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0031-next-permutation](https://github.com/itsparesh/Coding/tree/master/0031-next-permutation) |
+| [0033-search-in-rotated-sorted-array](https://github.com/itsparesh/Coding/tree/master/0033-search-in-rotated-sorted-array) |
 | [0039-combination-sum](https://github.com/itsparesh/Coding/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/itsparesh/Coding/tree/master/0040-combination-sum-ii) |
 | [0041-first-missing-positive](https://github.com/itsparesh/Coding/tree/master/0041-first-missing-positive) |
@@ -292,6 +293,7 @@
 ## Binary Search Tree
 |  |
 | ------- |
+| [0033-search-in-rotated-sorted-array](https://github.com/itsparesh/Coding/tree/master/0033-search-in-rotated-sorted-array) |
 | [0074-search-a-2d-matrix](https://github.com/itsparesh/Coding/tree/master/0074-search-a-2d-matrix) |
 | [0362-design-hit-counter](https://github.com/itsparesh/Coding/tree/master/0362-design-hit-counter) |
 | [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/itsparesh/Coding/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
