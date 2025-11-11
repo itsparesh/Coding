@@ -9,7 +9,7 @@ class Solution {
         }
 
         for (Map.Entry<Integer, Integer> entry : numMap.entrySet()) {
-            countMap.computeIfAbsent(entry.getValue(), k -> new TreeSet<>(Collections.reverseOrder())).add(entry.getKey());
+            countMap.computeIfAbsent(entry.getValue(), _ -> new TreeSet<>((a, b) -> Integer.compare(b, a))).add(entry.getKey());
         }
 
         int index = 0;
