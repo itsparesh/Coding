@@ -29,6 +29,7 @@
 | [0075-sort-colors](https://github.com/itsparesh/Coding/tree/master/0075-sort-colors) |
 | [0084-largest-rectangle-in-histogram](https://github.com/itsparesh/Coding/tree/master/0084-largest-rectangle-in-histogram) |
 | [0088-merge-sorted-array](https://github.com/itsparesh/Coding/tree/master/0088-merge-sorted-array) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/itsparesh/Coding/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0128-longest-consecutive-sequence](https://github.com/itsparesh/Coding/tree/master/0128-longest-consecutive-sequence) |
 | [0198-house-robber](https://github.com/itsparesh/Coding/tree/master/0198-house-robber) |
 | [0200-number-of-islands](https://github.com/itsparesh/Coding/tree/master/0200-number-of-islands) |
@@ -54,6 +55,7 @@
 | [0062-unique-paths](https://github.com/itsparesh/Coding/tree/master/0062-unique-paths) |
 | [0064-minimum-path-sum](https://github.com/itsparesh/Coding/tree/master/0064-minimum-path-sum) |
 | [0072-edit-distance](https://github.com/itsparesh/Coding/tree/master/0072-edit-distance) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/itsparesh/Coding/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0198-house-robber](https://github.com/itsparesh/Coding/tree/master/0198-house-robber) |
 | [0221-maximal-square](https://github.com/itsparesh/Coding/tree/master/0221-maximal-square) |
 | [1250-longest-common-subsequence](https://github.com/itsparesh/Coding/tree/master/1250-longest-common-subsequence) |
