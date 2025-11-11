@@ -7,13 +7,13 @@ class Solution {
 
         while (left < right) {
             if (leftMax <= rightMax) {  
-                sum += Math.min(leftMax, rightMax) - height[left];
                 left++;
                 leftMax = Math.max(leftMax, height[left]);
+                sum += leftMax - height[left];
             } else {
-                sum += Math.min(leftMax, rightMax) - height[right];
                 right--;
                 rightMax = Math.max(rightMax, height[right]);
+                sum += rightMax - height[right];
             }
         }
 
