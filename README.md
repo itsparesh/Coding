@@ -42,6 +42,7 @@
 | [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/itsparesh/Coding/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
 | [1108-analyze-user-website-visit-pattern](https://github.com/itsparesh/Coding/tree/master/1108-analyze-user-website-visit-pattern) |
 | [1713-dot-product-of-two-sparse-vectors](https://github.com/itsparesh/Coding/tree/master/1713-dot-product-of-two-sparse-vectors) |
+| [1741-sort-array-by-increasing-frequency](https://github.com/itsparesh/Coding/tree/master/1741-sort-array-by-increasing-frequency) |
 | [1742-widest-vertical-area-between-two-points-containing-no-points](https://github.com/itsparesh/Coding/tree/master/1742-widest-vertical-area-between-two-points-containing-no-points) |
 | [1896-maximum-score-from-performing-multiplication-operations](https://github.com/itsparesh/Coding/tree/master/1896-maximum-score-from-performing-multiplication-operations) |
 | [2005-check-if-all-the-integers-in-a-range-are-covered](https://github.com/itsparesh/Coding/tree/master/2005-check-if-all-the-integers-in-a-range-are-covered) |
@@ -127,6 +128,7 @@
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/itsparesh/Coding/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [1108-analyze-user-website-visit-pattern](https://github.com/itsparesh/Coding/tree/master/1108-analyze-user-website-visit-pattern) |
 | [1713-dot-product-of-two-sparse-vectors](https://github.com/itsparesh/Coding/tree/master/1713-dot-product-of-two-sparse-vectors) |
+| [1741-sort-array-by-increasing-frequency](https://github.com/itsparesh/Coding/tree/master/1741-sort-array-by-increasing-frequency) |
 | [2005-check-if-all-the-integers-in-a-range-are-covered](https://github.com/itsparesh/Coding/tree/master/2005-check-if-all-the-integers-in-a-range-are-covered) |
 ## Linked List
 |  |
@@ -208,6 +210,7 @@
 | [0778-reorganize-string](https://github.com/itsparesh/Coding/tree/master/0778-reorganize-string) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/itsparesh/Coding/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [1108-analyze-user-website-visit-pattern](https://github.com/itsparesh/Coding/tree/master/1108-analyze-user-website-visit-pattern) |
+| [1741-sort-array-by-increasing-frequency](https://github.com/itsparesh/Coding/tree/master/1741-sort-array-by-increasing-frequency) |
 | [1742-widest-vertical-area-between-two-points-containing-no-points](https://github.com/itsparesh/Coding/tree/master/1742-widest-vertical-area-between-two-points-containing-no-points) |
 ## Tree
 |  |
