@@ -1,4 +1,4 @@
-<h2><a href="https://leetcode.com/problems/maximum-units-on-a-truck">1829. Maximum Units on a Truck</a></h2><h3>Easy</h3><hr><p>You are assigned to put some amount of boxes onto <strong>one truck</strong>. You are given a 2D array <code>boxTypes</code>, where <code>boxTypes[i] = [numberOfBoxes<sub>i</sub>, numberOfUnitsPerBox<sub>i</sub>]</code>:</p>
+<h2><a href="https://leetcode.com/problems/maximum-units-on-a-truck/description/">1829. Maximum Units on a Truck</a></h2><h3>Easy</h3><hr><p>You are assigned to put some amount of boxes onto <strong>one truck</strong>. You are given a 2D array <code>boxTypes</code>, where <code>boxTypes[i] = [numberOfBoxes<sub>i</sub>, numberOfUnitsPerBox<sub>i</sub>]</code>:</p>
 
 <ul>
 	<li><code>numberOfBoxes<sub>i</sub></code> is the number of boxes of type <code>i</code>.</li>

@@ -8,12 +8,9 @@ class Solution {
         int result = 0;
         while (!boxQueue.isEmpty() && truckSize > 0) {
             int[] box = boxQueue.poll();
-            result += box[1];
-            box[0] = box[0] - 1;
-            if (box[0] > 0) {
-                boxQueue.add(box);
-            }
-            truckSize--;
+            int boxCount = Math.min(box[0], truckSize);
+            result += boxCount * box[1];
+            truckSize -= boxCount;
         }
 
         return result;
