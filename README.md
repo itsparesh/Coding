@@ -44,6 +44,7 @@
 | [1713-dot-product-of-two-sparse-vectors](https://github.com/itsparesh/Coding/tree/master/1713-dot-product-of-two-sparse-vectors) |
 | [1741-sort-array-by-increasing-frequency](https://github.com/itsparesh/Coding/tree/master/1741-sort-array-by-increasing-frequency) |
 | [1742-widest-vertical-area-between-two-points-containing-no-points](https://github.com/itsparesh/Coding/tree/master/1742-widest-vertical-area-between-two-points-containing-no-points) |
+| [1829-maximum-units-on-a-truck](https://github.com/itsparesh/Coding/tree/master/1829-maximum-units-on-a-truck) |
 | [1896-maximum-score-from-performing-multiplication-operations](https://github.com/itsparesh/Coding/tree/master/1896-maximum-score-from-performing-multiplication-operations) |
 | [2005-check-if-all-the-integers-in-a-range-are-covered](https://github.com/itsparesh/Coding/tree/master/2005-check-if-all-the-integers-in-a-range-are-covered) |
 | [3164-last-visited-integers](https://github.com/itsparesh/Coding/tree/master/3164-last-visited-integers) |
@@ -212,6 +213,7 @@
 | [1108-analyze-user-website-visit-pattern](https://github.com/itsparesh/Coding/tree/master/1108-analyze-user-website-visit-pattern) |
 | [1741-sort-array-by-increasing-frequency](https://github.com/itsparesh/Coding/tree/master/1741-sort-array-by-increasing-frequency) |
 | [1742-widest-vertical-area-between-two-points-containing-no-points](https://github.com/itsparesh/Coding/tree/master/1742-widest-vertical-area-between-two-points-containing-no-points) |
+| [1829-maximum-units-on-a-truck](https://github.com/itsparesh/Coding/tree/master/1829-maximum-units-on-a-truck) |
 ## Tree
 |  |
 | ------- |
@@ -231,6 +233,7 @@
 | ------- |
 | [0011-container-with-most-water](https://github.com/itsparesh/Coding/tree/master/0011-container-with-most-water) |
 | [0778-reorganize-string](https://github.com/itsparesh/Coding/tree/master/0778-reorganize-string) |
+| [1829-maximum-units-on-a-truck](https://github.com/itsparesh/Coding/tree/master/1829-maximum-units-on-a-truck) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
